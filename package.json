@@ -1,6 +1,6 @@
 {
   "name": "easydom-pro",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An npm package for making your life easy in dom manipulation.",
   "main": "index.js",
   "scripts": {
