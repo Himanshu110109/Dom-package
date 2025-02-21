@@ -1,0 +1,22 @@
+{
+  "name": "dompackage",
+  "version": "1.0.0",
+  "description": "An npm package for making your life easy in dom manipulation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himanshu110109/Dom-package.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Himanshu chandani",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Himanshu110109/Dom-package/issues"
+  },
+  "homepage": "https://github.com/Himanshu110109/Dom-package#readme"
+}
